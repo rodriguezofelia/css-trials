@@ -29,3 +29,13 @@ body {
 #yellow-bar {
     background-color: #ffd700;
 }
+
+.black-boxes {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    margin-top: 50px;
+    margin-left: 50px;
+    display: inline-block;
+
+}
