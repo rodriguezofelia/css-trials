@@ -11,3 +11,21 @@ h1 {
 body {
     margin: 0;
 }
+
+.bar {
+    width: 500px;
+    height: 100px;
+}
+
+#black-bar {
+    background-color: black;
+
+}
+
+#red-bar {
+    background-color: red;
+}
+
+#yellow-bar {
+    background-color: #ffd700;
+}
