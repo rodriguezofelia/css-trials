@@ -40,15 +40,16 @@ body {
 
 }
 
-#red, #blue {
-    height: 200px;
-    width: 350px;
-}
-
 #red {
     background-color: red;
 }
 
 #blue {
     background-color: blue;
+}
+
+.bg-color {
+    display: inline-block;
+    height: 200px;
+    width: 350px;
 }
