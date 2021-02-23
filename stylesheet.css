@@ -39,3 +39,16 @@ body {
     display: inline-block;
 
 }
+
+#red, #blue {
+    height: 200px;
+    width: 350px;
+}
+
+#red {
+    background-color: red;
+}
+
+#blue {
+    background-color: blue;
+}
